@@ -34,19 +34,3 @@ To simulate the logic of a basic automotive cruise control system using software
 - Logging and graphing real-time system behavior
 - Visualizing feedback loops for better tuning
 
-## 💼 Resume Bullet Point
-
-> Built a cruise control simulation in C using PID algorithms; tuned multiple configurations to visualize vehicle response using Python plots, showcasing control system behavior for IoT/automotive applications.
-
----
-
-## 📌 Next Steps
-- Add an option to dynamically enter target speed
-- Include automatic tuning (Ziegler-Nichols method)
-- Optional: Expand to GUI-based plotting or web dashboard
-
----
-
-## 📎 License
-Open for educational and personal use.
-
