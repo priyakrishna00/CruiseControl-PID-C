@@ -25,8 +25,6 @@ To simulate the logic of a basic automotive cruise control system using software
 ## 🎯 Applications
 - PID-based automotive systems
 - Embedded control simulations
-- Testing control logic without hardware
-- Resume/portfolio project for IoT or software roles
 
 ## 🧠 What I Learned
 - Fundamentals of PID tuning (Kp, Ki, Kd)
